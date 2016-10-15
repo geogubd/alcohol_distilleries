@@ -50,7 +50,7 @@ This is map of alchohol distilleries in the United States with data provided fro
 Jowanza Joseph. Feel free to visit my [blog](http://www.jowanza.com) or say hi on [Twitter](https://www.twitter.com/jowanza). 
 
 [1] Any mistakes or omissions are from the data.
-[2] All data and code can be found on github.
+[2] All data and code can be found on [github](https://github.com/josep2/alcohol_distilleries).
 
 Row {data-height=900}
 -------------------------------------
